@@ -1,4 +1,6 @@
+I am a Junior Fullstack .NET-developer based in Stockholm, Sweden. I enjoy working on backend- and fullstack-projects, and I am always on the lookout for opportunities to learn more about programming languages, frameworks, and tools.
 
+I have experience working with .NET/C#, Entity Framework, Azure, SQL Server, ASP.NET, Git, and PowerShell. I also have some experience using Python, JavaScript, Blazor, and HTML/CSS.
 
 <!--
 **sarlinkle/sarlinkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
